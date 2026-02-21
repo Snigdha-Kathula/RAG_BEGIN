@@ -1,0 +1,9 @@
+# Requirements for Gemini-based ingestion pipeline (ing_pipeline_gemini.py)
+# Install: pip install -r requirements-gemini.txt
+
+python-dotenv>=1.0.0
+langchain-google-genai>=2.0.0
+langchain-chroma>=0.1.0
+langchain-text-splitters>=0.2.0
+langchain-community>=0.2.0
+chromadb>=0.4.0

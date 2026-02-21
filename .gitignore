@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# ChromaDB
+db/chroma
+db/chroma_gemini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.cursor/
+.vscode/
+.idea/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# OS
+*.log
+.DS_Store
+Thumbs.db
