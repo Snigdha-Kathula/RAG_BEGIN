@@ -1,0 +1,6 @@
+
+pip install langchain langchain-community langchain-text-splitters langchain-openai langchain-chroma python-dotenv
+pip install -r requirements-gemini.txt
+// 1st file: ing_pipeline_gemini.py 
+// 2nd file: retrivel.py
+// 3rd file: 
